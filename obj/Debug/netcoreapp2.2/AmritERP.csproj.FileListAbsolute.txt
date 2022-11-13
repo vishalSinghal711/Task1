@@ -1,0 +1,46 @@
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/bin/Debug/netcoreapp2.2/AmritERP.deps.json
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/bin/Debug/netcoreapp2.2/AmritERP.runtimeconfig.json
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/bin/Debug/netcoreapp2.2/AmritERP.runtimeconfig.dev.json
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/bin/Debug/netcoreapp2.2/AmritERP.dll
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/bin/Debug/netcoreapp2.2/AmritERP.pdb
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/obj/Debug/netcoreapp2.2/AmritERP.csprojAssemblyReference.cache
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/obj/Debug/netcoreapp2.2/AmritERP.csproj.CoreCompileInputs.cache
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/obj/Debug/netcoreapp2.2/AmritERP.RazorAssemblyInfo.cache
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/obj/Debug/netcoreapp2.2/AmritERP.RazorAssemblyInfo.cs
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/obj/Debug/netcoreapp2.2/AmritERP.AssemblyInfoInputs.cache
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/obj/Debug/netcoreapp2.2/AmritERP.AssemblyInfo.cs
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/obj/Debug/netcoreapp2.2/AmritERP.RazorTargetAssemblyInfo.cache
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/obj/Debug/netcoreapp2.2/AmritERP.dll
+/Users/ashwanisinhal/Documents/Amrit Foods Core/AmritERP/obj/Debug/netcoreapp2.2/AmritERP.pdb
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.deps.json
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.runtimeconfig.json
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.runtimeconfig.dev.json
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.dll
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.pdb
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.csprojAssemblyReference.cache
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.AssemblyInfoInputs.cache
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.AssemblyInfo.cs
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.csproj.CoreCompileInputs.cache
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.RazorAssemblyInfo.cache
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.RazorAssemblyInfo.cs
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.RazorTargetAssemblyInfo.cache
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.dll
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.pdb
+/Users/ashwanisinhal/Desktop/Team/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.genruntimeconfig.cache
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.deps.json
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.runtimeconfig.json
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.runtimeconfig.dev.json
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.dll
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/bin/Debug/netcoreapp2.2/AmritERP.pdb
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.csprojAssemblyReference.cache
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.AssemblyInfoInputs.cache
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.AssemblyInfo.cs
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.csproj.CoreCompileInputs.cache
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.RazorAssemblyInfo.cache
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.RazorAssemblyInfo.cs
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.RazorTargetAssemblyInfo.cache
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.dll
+/Users/singhals/Crystal/C#/Tas1/BackEnd API/obj/Debug/netcoreapp2.2/AmritERP.pdb
